@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Theo the king",
+    "position": "Forward",
+    "rating": 99,
+    "team": "Northern Alliance FC",
+    "averageScorePosition": 3,
+    "estimatedWorthEbits": 500000000,
+    "negativeTraits": {
+      "Passing": "Weak",
+      "Dribbling": "Poor"
+    },
+    "positiveTraits": {
+      "Finishing": "Strong",
+      "Speed": "Fast"
+    },
+    "allTimeStats": {
+      "appearances": 300,
+      "goals": 150,
+      "assists": 90
+    }
+  },
+  {
+    "id": 2,
+    "name": "Melwin",
+    "position": "Forward",
+    "rating": 72,
+    "team": "Northern Alliance FC",
+    "averageScorePosition": 7,
+    "estimatedWorthEbits": 300000000,
+    "negativeTraits": {
+      "Finishing": "Weak",
+      "Speed": "Moderate"
+    },
+    "positiveTraits": {},
+    "allTimeStats": {
+      "appearances": 2500,
+      "goals": 2,
+      "assists": 1.5
+    }
+  },
+  {
+    "id": 574148074541416450,
+    "name": "sparvish",
+    "position": "N/A",
+    "rating": 70,
+    "team": "N/A",
+    "averageScorePosition": 0,
+    "estimatedWorthEbits": 100000,
+    "negativeTraits": {},
+    "positiveTraits": {},
+    "allTimeStats": {},
+    "steamAccountLink": "dawsd"
+  }
+]

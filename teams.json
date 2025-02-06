@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Team A",
+      "elo": 1600,
+      "ebits": 45000,
+      "players": [
+        { "name": "Player 1", "position": "Forward" },
+        { "name": "Player 2", "position": "Midfielder" },
+        { "name": "Player 3", "position": "Defender" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Team B",
+      "elo": 800,
+      "ebits": 45500000,
+      "players": [
+        { "name": "Player 4", "position": "Goalkeeper" },
+        { "name": "Player 5", "position": "Attacker" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Northern Alliance FC",
+      "elo": 2000,
+      "ebits": 95500000
+    }
+  ]
+  
